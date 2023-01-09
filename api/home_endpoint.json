@@ -5,28 +5,38 @@
 	"activity": [
 		{
 			"name": "Mall",
-			"price": 100.0,
-			"time": "8:57 AM"
+			"price": 10.0,
+			"time": "18:57 PM"
 		},
 		{
 			"name": "Food Court",
-			"price": 100.0,
-			"time": "8:57 AM"
+			"price": 144.0,
+			"time": "10:57 AM"
 		},
 		{
 			"name": "Oceanic Airlines",
-			"price": 100.0,
-			"time": "8:57 AM"
+			"price": 88.0,
+			"time": "5:57 AM"
 		},
 		{
 			"name": "Gym Membership",
-			"price": 100.0,
-			"time": "8:57 AM"
+			"price": 16.0,
+			"time": "14:57 PM"
 		},
 		{
-			"name": "Private Transport",
+			"name": "Mall of Svetlana",
 			"price": 100.0,
-			"time": "8:57 AM"
-		}
+			"time": "16:44 PM"
+		},
+        {
+            "name": "Gazprombank",
+            "price": 69.0,
+            "time": "13:37 PM"
+        },
+        {
+            "name": "Private Transport",
+            "price": 120.0,
+            "time": "18:44 PM"
+        }
 	]
 }
